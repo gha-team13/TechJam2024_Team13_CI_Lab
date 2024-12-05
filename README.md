@@ -1,4 +1,10 @@
-These are the contents of Readme.md file in github can you orgazine it and format it in better way , try using HTML for formatting
+- 👋 Hi, I’m @adcosta
+- 👀 I’m interested in 
+- 🌱 I’m currently competing in TechJam 2024
+- 💞️ I’m looking to collaborate on GRC
+- 📫 How to reach me anthony.dcosta@td.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: GRC improves engagement
 
 ## Getting Started adcosta
 
