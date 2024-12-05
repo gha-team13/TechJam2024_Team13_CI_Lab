@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adcosta
-- 👀 I’m interested in 
+- 👀 I’m interested in risk spotting competitions
 - 🌱 I’m currently competing in TechJam 2024
 - 💞️ I’m looking to collaborate on GRC
 - 📫 How to reach me anthony.dcosta@td.com
